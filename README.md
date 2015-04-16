@@ -1,0 +1,2 @@
+# Research
+BinarySearch and Interpolation
